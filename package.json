@@ -142,7 +142,7 @@
     "eslint-plugin-standard": "^3.0.1",
     "express": "^4.16.2",
     "finalhandler": "^1.1.0",
-    "jsdom": "^11.3.0",
+    "jsdom": "^11.5.1",
     "json-loader": "^0.5.7",
     "nyc": "^11.3.0",
     "puppeteer": "^0.13.0",
