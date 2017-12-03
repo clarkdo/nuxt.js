@@ -157,7 +157,7 @@
     "rollup-plugin-replace": "^2.0.0",
     "rollup-watch": "^4.3.1",
     "std-mocks": "^1.0.1",
-    "uglify-js": "^3.2.0"
+    "uglify-js": "^3.2.1"
   },
   "collective": {
     "type": "opencollective",
