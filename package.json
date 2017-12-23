@@ -70,7 +70,7 @@
     "connect": "^3.6.5",
     "css-loader": "^0.28.7",
     "debug": "^3.1.0",
-    "es6-promise": "^4.1.1",
+    "es6-promise": "^4.2.2",
     "etag": "^1.8.1",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.5",
