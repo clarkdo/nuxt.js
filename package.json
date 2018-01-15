@@ -62,7 +62,7 @@
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-vue-app": "^2.0.0",
-    "caniuse-lite": "^1.0.30000784",
+    "caniuse-lite": "^1.0.30000792",
     "chalk": "^2.3.0",
     "chokidar": "^2.0.0",
     "clone": "^2.1.1",
