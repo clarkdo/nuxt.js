@@ -143,7 +143,7 @@
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
     "sinon": "^4.1.2",
-    "uglify-js": "^3.3.4"
+    "uglify-js": "^3.3.7"
   },
   "collective": {
     "type": "opencollective",
