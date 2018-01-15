@@ -142,7 +142,7 @@
     "puppeteer": "^0.13.0",
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
-    "sinon": "^4.1.2",
+    "sinon": "^4.1.5",
     "uglify-js": "^3.3.4"
   },
   "collective": {
