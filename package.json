@@ -91,7 +91,7 @@
     "minimist": "^1.2.0",
     "opencollective": "^1.0.3",
     "postcss": "^6.0.16",
-    "postcss-cssnext": "^3.0.2",
+    "postcss-cssnext": "^3.1.0",
     "postcss-import": "^11.0.0",
     "postcss-loader": "^2.0.10",
     "postcss-url": "^7.3.0",
