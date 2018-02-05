@@ -85,7 +85,7 @@
     "html-webpack-plugin": "^2.30.1",
     "launch-editor": "^2.0.0",
     "launch-editor-middleware": "^2.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.5",
     "lru-cache": "^4.1.1",
     "memory-fs": "^0.4.1",
     "minimist": "^1.2.0",
