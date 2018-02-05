@@ -4420,15 +4420,22 @@ latest-version@^3.0.0:
   dependencies:
     package-json "^4.0.0"
 
-launch-editor-middleware@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/launch-editor-middleware/-/launch-editor-middleware-2.2.0.tgz#a0bde4f3ea7ec8a55fcbf3ec5da5de1edc1d7824"
+launch-editor-middleware@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/launch-editor-middleware/-/launch-editor-middleware-2.2.1.tgz#e14b07e6c7154b0a4b86a0fd345784e45804c157"
   dependencies:
-    launch-editor "^2.0.0"
+    launch-editor "^2.2.1"
 
 launch-editor@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/launch-editor/-/launch-editor-2.0.0.tgz#24a978139e0e9747fec2b4115f09a684526e2b90"
+  dependencies:
+    chalk "^2.3.0"
+    shell-quote "^1.6.1"
+
+launch-editor@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/launch-editor/-/launch-editor-2.2.1.tgz#871b5a3ee39d6680fcc26d37930b6eeda89db0ca"
   dependencies:
     chalk "^2.3.0"
     shell-quote "^1.6.1"
