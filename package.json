@@ -92,7 +92,7 @@
     "opencollective": "^1.0.3",
     "postcss": "^6.0.17",
     "postcss-cssnext": "^3.1.0",
-    "postcss-import": "^11.0.0",
+    "postcss-import": "^11.1.0",
     "postcss-import-resolver": "^1.1.0",
     "postcss-loader": "^2.1.0",
     "postcss-url": "^7.3.0",
