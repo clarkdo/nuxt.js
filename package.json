@@ -70,7 +70,7 @@
   "dependencies": {
     "@nuxtjs/friendly-errors-webpack-plugin": "^2.0.2",
     "@nuxtjs/youch": "^4.2.3",
-    "autoprefixer": "^8.6.4",
+    "autoprefixer": "^9.1.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-preset-vue-app": "^2.0.0",
