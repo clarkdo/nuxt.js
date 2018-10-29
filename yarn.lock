@@ -1333,10 +1333,10 @@
   resolved "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-1.1.2.tgz#54c5a964462be3d4d78af631363c18d6fa91ac26"
   integrity sha512-yprFYuno9FtNsSHVlSWd+nRlmGoAbqbeCwOryP6sC/zoCjhpArcRMYp19EvpSUSizJAlsXEwJv+wcWS9XaXdMw==
 
-"@nuxtjs/babel-preset-app@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.npmjs.org/@nuxtjs/babel-preset-app/-/babel-preset-app-0.7.0.tgz#b208a95e0a053259c29b99a9e4ca9ea2604dbdd2"
-  integrity sha512-gYyFNa+etbsYs5SN7KT2SJxARPgKptBh5N3r66TzSE4kerFdSn7Gd324FoNKfqAnkXv7FsHZflKWoLFxYgn8UQ==
+"@nuxtjs/babel-preset-app@^0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/babel-preset-app/-/babel-preset-app-0.8.0.tgz#63744f4a4e0feb7667a6f28126bfb9232f6e5ef9"
+  integrity sha512-L5naobEyo++37g5jBpyU9hlJO0YZo8TU4om2yxUdInID84eHMujsWOm4fuCGTBepVpX5b63pCj6phSDwDplJyA==
   dependencies:
     "@babel/core" "^7.1.0"
     "@babel/plugin-proposal-class-properties" "^7.1.0"
